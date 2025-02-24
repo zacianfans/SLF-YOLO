@@ -59,18 +59,6 @@ Your dataset should be structured in the YOLO format, including:
 
 Ensure that `your_dataset.yaml` correctly points to the images and labels.
 
-## Citation
-
-If you use this repository, please cite the corresponding paper:
-
-```
-@article{your-paper,
-  title={Metal Surface Defect Detection Using SLF-YOLO Enhanced YOLOv8 Model},
-  author={Your Name},
-  journal={Your Journal},
-  year={2025}
-}
-```
 
 ## Contact
 
