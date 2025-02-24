@@ -58,5 +58,5 @@ Ensure that `your_dataset.yaml` correctly points to the images and labels.
 
 ## Contact
 
-For any issues or inquiries, please open an issue or contact [your email].
+For any issues or inquiries, please open an issue or contact us.
 
