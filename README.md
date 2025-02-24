@@ -1,9 +1,5 @@
 # Metal Surface Defect Detection Using SLF-YOLO Enhanced YOLOv8 Model
 
-## Introduction
-
-This repository contains the implementation code for the paper **"Metal Surface Defect Detection Using SLF-YOLO Enhanced YOLOv8 Model."** The project focuses on improving metal surface defect detection by enhancing the YOLOv8 model with the SLF-YOLO architecture.
-
 ## Repository Structure
 
 - **`new_cfg/`** - Contains the proposed network configuration files from the paper.
